@@ -7,3 +7,5 @@ I used an alternative approach to the task board, and used dropdown to change th
 filtering to filter the tasks by title, priority, status and created at.
 please take note that the tasks added to the board is not persisted. Once the page is refreshed,
 the added tasks will be lost.
+
+You can visit the app here: (https://task-management-board-five.vercel.app/)
